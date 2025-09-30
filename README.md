@@ -34,6 +34,3 @@ A estrutura do projeto está organizada da seguinte forma:
 ├── index.html <br>
 
 
-
-
-# Windows-clone
