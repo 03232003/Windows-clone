@@ -25,13 +25,13 @@ A estrutura do projeto está organizada da seguinte forma:
 # Link do Youtube
 > https://www.youtube.com/watch?v=3MoOV_Px0I8
 
-/ Windows-clone
+/ Windows-clone <br>
 ├── img <br>
 ├── vendor<br>
-├── README.md
-├── code.js
-└── estilo.js
-├── index.html
+├── README.md <br>
+├── code.js <br>
+└── estilo.js <br>
+├── index.html <br>
 
 
 
