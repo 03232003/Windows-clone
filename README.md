@@ -23,11 +23,11 @@ Este projeto é uma réplica interativa da tela de bloqueio e da área de trabal
 A estrutura do projeto está organizada da seguinte forma:
 
 # Link do Youtube
->>> https://www.youtube.com/watch?v=3MoOV_Px0I8
+> https://www.youtube.com/watch?v=3MoOV_Px0I8
 
 / Windows-clone
-├── img
-├── vendor
+├── img <br>
+├── vendor<br>
 ├── README.md
 ├── code.js
 └── estilo.js
